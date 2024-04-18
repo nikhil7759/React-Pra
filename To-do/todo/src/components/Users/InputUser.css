@@ -1,0 +1,33 @@
+body {
+  background: #f7f7f7;
+}
+
+.form-box {
+  max-width: 500px;
+  margin: auto;
+  padding: 50px;
+  background: #ffffff;
+  border: 10px solid #f2f2f2;
+}
+.hello {
+  background: black;
+}
+
+h1,
+p {
+  text-align: center;
+}
+
+input,
+textarea {
+  width: 100%;
+}
+.form-group {
+  margin: 15px;
+}
+label {
+  display: inline-block;
+  max-width: 100%;
+  margin-bottom: 5px;
+  font-weight: 700;
+}
